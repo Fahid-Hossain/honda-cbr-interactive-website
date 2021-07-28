@@ -1,3 +1,13 @@
+/* --------google fonts import------------  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
 .header-bg{
     background-color:  #264653;;
+}
+.spacify-color-text{
+    color: #E76F51;
+}
+.font-family-poppins{
+    font-family: 'Poppins', sans-serif;
 }
