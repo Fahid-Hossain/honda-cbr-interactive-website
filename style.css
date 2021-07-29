@@ -14,3 +14,7 @@
 .font-family-poppins{
     font-family: 'Poppins', sans-serif;
 }
+.accordion-button{
+    color: black !important;
+    background-color: white !important;
+}
