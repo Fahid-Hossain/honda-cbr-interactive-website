@@ -18,3 +18,6 @@
     color: black !important;
     background-color: white !important;
 }
+.accordion-button:focus{
+    box-shadow: none !important;
+}
